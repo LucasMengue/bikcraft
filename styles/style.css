@@ -32,6 +32,7 @@ p {
   width: 100%;
   background-color: #fec63e;
   padding: 15px 0;
+  z-index: 10;
 }
 
 .header_menu {
