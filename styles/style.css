@@ -276,6 +276,7 @@ img {
 
 .qualidade_lista {
   padding-top: 20px;
+  overflow: auto; /* clear fix */
 }
 
 .qualidade_lista li {
