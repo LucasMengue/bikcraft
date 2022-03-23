@@ -186,11 +186,15 @@ img {
 /* Produtos */
 .produtos {
   padding: 60px 0;
-  text-align: center;
 }
 
 .produtos_lista li {
   background-color: #fec63e;
+  text-align: center;
+}
+
+.produtos_lista li img {
+  margin: 0 auto;
 }
 
 .produtos_lista li h3 {
