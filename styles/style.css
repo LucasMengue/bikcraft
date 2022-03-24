@@ -249,7 +249,7 @@ img {
   background-color: #fec63e;
 }
 
-.portfolio_lista li:last-child {
+.portfolio_lista div:last-of-type {
   margin-top: 20px;
 }
 
