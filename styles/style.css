@@ -23,6 +23,7 @@ img {
   text-transform: uppercase;
   font-weight: bold;
   letter-spacing: 0.1em;
+  transition: all 0.5s ease;
 }
 
 .btn:hover {
@@ -102,6 +103,7 @@ img {
   font-size: 14px;
   line-height: 20px;
   padding: 10px 0;
+  transition: all 0.5s ease;
 }
 
 .header_menu ul li a:hover {
@@ -365,6 +367,7 @@ img {
   border: 3px solid #fec63e;
   display: block;
   padding: 10px;
+  transition: all 0.5s ease;
 }
 
 .footer_redes ul li a:hover {
